@@ -1,0 +1,9 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DuckAI" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="android:windowBackground">#FFFFFF</item>
+    </style>
+
+    <style name="Theme.DuckAI" parent="Base.Theme.DuckAI" />
+</resources>

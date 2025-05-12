@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Wrapper for DuckAI</string>
+    <string name="activity_name">DuckAI</string>
+</resources>
